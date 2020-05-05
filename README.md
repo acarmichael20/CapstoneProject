@@ -31,7 +31,7 @@ Combining the number of Family Physicians with the population in each FSA it is 
 In the above map there are areas that are grey coloured, these are areas where a Family Physician is not practicing.  These areas are close to the HRM, Truro and in Eastern Cape Breton.  The areas around the HRM and Truro can be explained due to their proximity to a large population center and Family Physician coverage.  The lack of a Family Physician in Eastern Cape Breton is less likely due to its proximity to Sydney and may be an area that is genuinely in need of Family Physicians
 The area covered by each FSA can vary significantly and when used to plot data can obscure the results.  By associating each FSA with a community, it is possible to group the FSAs and make comparisons.
 
-[FamilyPhysiciansPer100K_Grouped](FP100K_Com.jpg)
+![FamilyPhysiciansPer100K_Grouped](FP100K_Com.jpg)
 
 Surprisingly, the HRM is not the community with the highest number of Family Physicians per 100,000 people. The top four communities do have a common factor, they are all University communities.
 

@@ -3,6 +3,7 @@ Health care is an important part of living in Nova Scotia. Traditionally people 
 This report will look at:
 
 *The distribution of Family Physicians in Nova Scotia.
+
 *If there will be shortage of Family Physicians in the future due to retirements.
 
 ## Data

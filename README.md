@@ -9,7 +9,7 @@ This report will look at:
 ### The Forward Sortation Area
 This report relies heavily on data that has been segmented by geographic region.  The fundamental region utilized is the Forward Sortation Area (FSA).  The FSA is the first half of a Canadian Postal code. *ie. **B3K** 2T3*. Statistics Canada publishes some data by linking it with an FSA.  Statistics Canada also publishes a GIS file containing the [FSA boundaries](https://www150.statcan.gc.ca/n1/en/catalogue/92-179-X) of Canada.
 
-(Add pic of FSA?)
+![Nova Scotia Forward Sortation Areas](NovaScotiaFSA.jpeg)
 
 ### Population
 The distribution of Nova Scotia’s population was obtained from Statistics Canada’s [Population and Dwelling Count Highlight Tables, 2016 Census]( https://www12.statcan.gc.ca/census-recensement/2016/dp-pd/hlt-fst/pd-pl/Table.cfm?Lang=Eng&T=1201&S=22&O=A)

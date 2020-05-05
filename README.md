@@ -33,76 +33,13 @@ The area covered by each FSA can vary significantly and when used to plot data c
 
 ![FamilyPhysiciansPer100K_Grouped](FP100K_Com.jpg)
 
-Surprisingly, the HRM is not the community with the highest number of Family Physicians per 100,000 people. The top four communities do have a common factor, they are all University communities.
+Surprisingly, the HRM is not the community with the highest number of Family Physicians per 100,000 people. The top four communities do have a common factor, they are all communities that contain at least one University.
 
 ## Estimating Family Physician Retirements
 Using the year a Physician graduated from Medical School it is possible to estimate their age.  The data retrieved from the College Of Physicians & Surgeons Of Nova Scotia contains the reason and date a Physician has inactivated their licence in Nova Scotia.  Utilizing these criteria, I have calculated the average retirement age for a Family Physician as 64.3 years.
 Applying the calculated retirement age to the active Family Physicians in Nova Scotia, it is possible to estimate how many of these Physicians are within five years of retirement. Grouping Family Physicians by community it is possible to predict which communities may be hit hardest by Physician retirements in the next five years.
 
-Insert retirements Chart   
+![DoctorsRetiringWithin5Years](Retirements.jpg)
 
 From the above chart the top three communities that could be impacted by Family Physician retirements are Enfield, Liverpool and New Glasgow.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/acarmichael20/CapstoneProject/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/acarmichael20/CapstoneProject/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

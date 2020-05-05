@@ -2,7 +2,7 @@
 Health care is an important part of living in Nova Scotia. Traditionally people accessed the healthcare system through their Family Physician.  As of April 1, 2020, [46,051](http://www.nshealth.ca/sites/nshealth.ca/files/finding_a_primary_care_provider_in_nova_scotia_report_april_2020.pdf) Nova Scotians have indicated that they are unable to find a Family Physician.
 This report will look at:
 
--The distribution of Family Physicians in Nova Scotia.<\n>
+-The distribution of Family Physicians in Nova Scotia. <br>
 -If there will be shortage of Family Physicians in the future due to retirements.
 
 ## Data

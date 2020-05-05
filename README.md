@@ -3,7 +3,7 @@ Health care is an important part of living in Nova Scotia. Traditionally people 
 This report will look at:
 
 -The distribution of Family Physicians in Nova Scotia. <br>
--If there will be shortage of Family Physicians in the future due to retirements.
+-Possibility of a Family Physicians shortage due to retirements.
 
 ## Data
 
@@ -37,7 +37,7 @@ Surprisingly, the HRM is not the community with the highest number of Family Phy
 
 ## Estimating Family Physician Retirements
 Using the year a Physician graduated from Medical School it is possible to estimate their age.  The data retrieved from the College Of Physicians & Surgeons Of Nova Scotia contains the reason and date a Physician has inactivated their licence in Nova Scotia.  Utilizing these criteria, I have calculated the average retirement age for a Family Physician as 64.3 years.
-Applying the calculated retirement age to the active Family Physicians in Nova Scotia, it is possible to estimate how many of these Physicians are within five years of retirement. Grouping Family Physicians by community it is possible to predict which communities may be hit hardest by Physician retirements in the next five years.
+Applying the calculated retirement age to the active Family Physicians in Nova Scotia, it is possible to estimate how many of these Physicians are within five years of retirement. Grouping Family Physicians by community, it is possible to predict which communities may be most impacted by Physician retirements in the next five years.
 
 ![RetiringWithin5Years](Retirements.jpeg)
 

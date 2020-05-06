@@ -17,8 +17,10 @@ The distribution of Nova Scotia’s population was obtained from Statistics Cana
 
 ### Family Physician Data
 The data pertaining to Physicians was obtained through the [College Of Physicians & Surgeons Of Nova Scotia](https://cpsns.ns.ca/).  This site has a link to a Physician search where the user can download a .CSV file that contains summary information on every Physician practicing in Nova Scotia.  While the file contains useful information, it is missing information regarding:
--A Physician’s age. 
+
+-A Physician’s age. <br>
 -A way to associate a Physician to a FSA.  
+
 A simple web scraper script was created in RStudio using the rvest package to retrieve this information from the College of Physicians & Surgeons Of Nova Scotia.
 
 ## ETL, Calculation and Graphics

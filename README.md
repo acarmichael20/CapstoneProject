@@ -22,10 +22,10 @@ The data pertaining to Physicians was obtained through the [College Of Physician
 -Each Physician's business address.  
 
 ## ETL, Calculation and Graphics
-All ETL, calculations and graphics were performed through an RStudio script written specifically for the tasks.
+All ETL, calculations and graphics were performed using a script written in RStudio.
 
 ## Distribution of Family Physicians in Nova Scotia
-Combining the number of Family Physicians with the population in each FSA enables the calculation number of Family Physicians per 100,000 people in each area.  This metric is used to apply a colour gradient to each FSA in Nova Scotia.  The map is shown below.
+Combining the number of Family Physicians with the population in each FSA enables the calculation of Family Physicians per 100,000 people in each area.  This metric is used to colour each FSA according to the Family Physicians per 100k.  The map is shown below.
 ![Doctors Per 100K](DocsPer100K.jpeg)
 
 In the above map there are areas that are grey coloured, these are areas where a Family Physician is not practicing.  These areas are close to the HRM, Truro and in Eastern Cape Breton.  The areas around the HRM and Truro can be explained due to their proximity to a large population center and Family Physician coverage.  The lack of a Family Physician in Eastern Cape Breton is less likely due to its proximity to Sydney and may be an area that is genuinely in need of Family Physicians.<br><br>

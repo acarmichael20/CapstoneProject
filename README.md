@@ -16,22 +16,20 @@ This report relies heavily on data that has been segmented by geographic region.
 The distribution of Nova Scotia’s population was obtained from Statistics Canada’s [Population and Dwelling Count Highlight Tables, 2016 Census]( https://www12.statcan.gc.ca/census-recensement/2016/dp-pd/hlt-fst/pd-pl/Table.cfm?Lang=Eng&T=1201&S=22&O=A)
 
 ### Family Physician Data
-The data pertaining to Physicians was obtained through the [College Of Physicians & Surgeons Of Nova Scotia](https://cpsns.ns.ca/) (CPSNS).  The site has a link to a Physician search where the user can download a .CSV file that contains summary information on every Physician practicing in Nova Scotia.  While the file contains useful information, it is missing information regarding:
+The data pertaining to Physicians was obtained through the [College Of Physicians & Surgeons Of Nova Scotia](https://cpsns.ns.ca/) (CPSNS).  Using the Physician search page, users can download a .CSV file of summary information on every Physician practicing in Nova Scotia.  While the file contains useful information, it does not contain all the information available on the site. A simple web scraper was scriped using RStudio and the package rvest to obtain the following from CPSNS:
 
--A Physician’s age. <br>
--A way to associate a Physician to a FSA.  
-
-A simple web scraper script was created in RStudio using the rvest package to retrieve this information from the College of Physicians & Surgeons Of Nova Scotia.
+-Each Physicians graduation year. <br>
+-Each Physician's business address.  
 
 ## ETL, Calculation and Graphics
 All ETL, calculations and graphics were performed through an RStudio script written specifically for the tasks.
 
 ## Distribution of Family Physicians in Nova Scotia
-Combining the number of Family Physicians with the population in each FSA it is possible to calculate number of Family Physicians per 100,000 people in each FSA.  This metric is used to apply a colour gradient to each FSA in Nova Scotia.  The map is shown below.
+Combining the number of Family Physicians with the population in each FSA enables the calculation number of Family Physicians per 100,000 people in each area.  This metric is used to apply a colour gradient to each FSA in Nova Scotia.  The map is shown below.
 ![Doctors Per 100K](DocsPer100K.jpeg)
 
-In the above map there are areas that are grey coloured, these are areas where a Family Physician is not practicing.  These areas are close to the HRM, Truro and in Eastern Cape Breton.  The areas around the HRM and Truro can be explained due to their proximity to a large population center and Family Physician coverage.  The lack of a Family Physician in Eastern Cape Breton is less likely due to its proximity to Sydney and may be an area that is genuinely in need of Family Physicians
-The area covered by each FSA can vary significantly and when used to plot data can obscure the results.  By associating each FSA with a community, it is possible to group the FSAs and make comparisons.
+In the above map there are areas that are grey coloured, these are areas where a Family Physician is not practicing.  These areas are close to the HRM, Truro and in Eastern Cape Breton.  The areas around the HRM and Truro can be explained due to their proximity to a large population center and Family Physician coverage.  The lack of a Family Physician in Eastern Cape Breton is less likely due to its proximity to Sydney and may be an area that is genuinely in need of Family Physicians.<br>
+The area covered by each FSA can vary significantly.  The difference in FSAs leads to some areas being obscured.  By associating each FSA with a community, it is possible to group the FSAs and make direct comparisons.
 
 ![FamDocPer100KGrouped](FP100K_Com.jpeg)
 

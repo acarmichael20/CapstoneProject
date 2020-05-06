@@ -16,7 +16,7 @@ This report relies heavily on data that has been segmented by geographic region.
 The distribution of Nova Scotia’s population was obtained from Statistics Canada’s [Population and Dwelling Count Highlight Tables, 2016 Census]( https://www12.statcan.gc.ca/census-recensement/2016/dp-pd/hlt-fst/pd-pl/Table.cfm?Lang=Eng&T=1201&S=22&O=A)
 
 ### Family Physician Data
-The data pertaining to Physicians was obtained through the [College Of Physicians & Surgeons Of Nova Scotia](https://cpsns.ns.ca/).  This site has a link to a Physician search where the user can download a .CSV file that contains summary information on every Physician practicing in Nova Scotia.  While the file contains useful information, it is missing information regarding:
+The data pertaining to Physicians was obtained through the [College Of Physicians & Surgeons Of Nova Scotia](https://cpsns.ns.ca/) (CPSNS).  The site has a link to a Physician search where the user can download a .CSV file that contains summary information on every Physician practicing in Nova Scotia.  While the file contains useful information, it is missing information regarding:
 
 -A Physician’s age. <br>
 -A way to associate a Physician to a FSA.  

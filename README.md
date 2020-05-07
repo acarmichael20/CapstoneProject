@@ -37,10 +37,10 @@ The area covered by each FSA can vary significantly.  The difference in FSAs lea
 Surprisingly, the communities making up the HRM, are not the communities with the highest number of Family Physicians per 100,000 people. The top four communities do have a common factor, they are all communities that contain at least one University.
 
 ## Estimating Family Physician Retirements
-By using the year a Physician graduated from Medical School, it is possible to estimate their age.  The data retrieved from the College Of Physicians & Surgeons Of Nova Scotia contains the date and reason a Physician has inactivated their licence.  Using this information, I have calculated the average retirement age for a Family Physician to be 64.3 years.<br>
-Applying the calculated retirement age to the active Family Physicians in Nova Scotia, it is possible to estimate how many of these Physicians are within five years of retirement. Grouping Family Physicians by community, it is possible to predict which communities may be most impacted by Physician retirements in the next five years.
+By using the year a Physician graduated from Medical School, it is possible to estimate their age.  The data retrieved from the College Of Physicians & Surgeons Of Nova Scotia contains the date and reason a Physician has inactivated their licence.  Using this information, I have calculated the average retirement age for a Family Physician to be 64.3 years.<br><br>
+Applying the calculated retirement age to the active Family Physicians in Nova Scotia, it is possible to estimate how many of these Physicians are within five years of retirement.  Assuming that retiring Family Physicians will not be replaced, it is possible to predict which communities may face a Family Physician shortage due to retirements, in the next five years.
 
 ![RetiringWithin5Years](Retirements.jpeg)
 
-From the above chart the top three communities that could be impacted by Family Physician retirements are Enfield, Liverpool and New Glasgow.
+From the above chart, the top three communities that could be impacted by Family Physician retirements are Enfield, Liverpool and New Glasgow.
 

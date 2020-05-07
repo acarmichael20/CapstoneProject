@@ -1,14 +1,14 @@
 ## Introduction
-Health care is an important part of living in Nova Scotia. Traditionally people accessed the healthcare system through their Family Physician.  As of April 1, 2020, [46,051](http://www.nshealth.ca/sites/nshealth.ca/files/finding_a_primary_care_provider_in_nova_scotia_report_april_2020.pdf) Nova Scotians have indicated that they are unable to find a Family Physician.
+Health care is an important part of achieving quality of life and optimal health outcomes in Nova Scotia. Traditionally, people access the healthcare system through their Family Physician.  As of April 1, 2020, [46,051](http://www.nshealth.ca/sites/nshealth.ca/files/finding_a_primary_care_provider_in_nova_scotia_report_april_2020.pdf) Nova Scotians have indicated that they are unable to find a Family Physician.
 This report will look at:
 
 -The distribution of Family Physicians in Nova Scotia. <br>
--Possibility of a Family Physicians shortage due to retirements.
+-the possibility of a Family Physician shortage due to retirements.
 
 ## Data
 
 ### The Forward Sortation Area
-This report relies heavily on data that has been segmented by geographic region.  The fundamental region utilized is the Forward Sortation Area (FSA).  The FSA is the first half of a Canadian Postal code. *ie. **B3K** 2T3*. Statistics Canada publishes some data by linking it with an FSA.  Statistics Canada also publishes a GIS file containing the [FSA boundaries](https://www150.statcan.gc.ca/n1/en/catalogue/92-179-X) of Canada.
+This report relies heavily on data that has been segmented by geographic region.  The fundamental unit is the Forward Sortation Area (FSA).  The FSA is the first half of a Canadian Postal code. *ie. **B3K** 2T3*. Statistics Canada publishes some data by linking it with an FSA.  Statistics Canada also publishes a GIS file containing the [FSA boundaries](https://www150.statcan.gc.ca/n1/en/catalogue/92-179-X) of Canada.
 
 ![Nova Scotia Forward Sortation Areas](NovaScotiaFSA.jpeg)
 

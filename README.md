@@ -29,15 +29,15 @@ Combining the number of Family Physicians with the population in each FSA enable
 
 ![Doctors Per 100K](DocsPer100K.jpeg)
 
-In the above map there are areas that are grey coloured, these are areas where a Family Physician is not practicing.  These areas are close to the HRM, Truro and in Eastern Cape Breton.  The areas around the HRM and Truro can be explained due to their proximity to a large population center and Family Physician coverage.  The lack of a Family Physician in Eastern Cape Breton is less likely due to its proximity to Sydney and may be an area that is genuinely in need of Family Physicians.<br><br>
+In the above map there are are grey coloured areas, these are areas where a Family Physician is not practicing.  These areas are close to the HRM, Truro and in Eastern Cape Breton.  The areas around the HRM and Truro can be explained due to their proximity to a large population center with greater Family Physician coverage.  The lack of a Family Physician in Eastern Cape Breton is less likely due to its proximity to Sydney and may be an area that is genuinely in need of Family Physicians.<br><br>
 The area covered by each FSA can vary significantly.  The difference in FSAs leads to some areas being obscured.  By associating each FSA with a community, it is possible to group the FSAs and make direct comparisons.
 
 ![FamDocPer100KGrouped](FP100K_Com.jpeg)
 
-Surprisingly, the HRM is not the community with the highest number of Family Physicians per 100,000 people. The top four communities do have a common factor, they are all communities that contain at least one University.
+Surprisingly, the communities making up the HRM, are not the communities with the highest number of Family Physicians per 100,000 people. The top four communities do have a common factor, they are all communities that contain at least one University.
 
 ## Estimating Family Physician Retirements
-Using the year a Physician graduated from Medical School it is possible to estimate their age.  The data retrieved from the College Of Physicians & Surgeons Of Nova Scotia contains the reason and date a Physician has inactivated their licence in Nova Scotia.  Utilizing these criteria, I have calculated the average retirement age for a Family Physician as 64.3 years.
+By using the year a Physician graduated from Medical School, it is possible to estimate their age.  The data retrieved from the College Of Physicians & Surgeons Of Nova Scotia contains the date and reason a Physician has inactivated their licence.  Using this information, I have calculated the average retirement age for a Family Physician to be 64.3 years.<br>
 Applying the calculated retirement age to the active Family Physicians in Nova Scotia, it is possible to estimate how many of these Physicians are within five years of retirement. Grouping Family Physicians by community, it is possible to predict which communities may be most impacted by Physician retirements in the next five years.
 
 ![RetiringWithin5Years](Retirements.jpeg)

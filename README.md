@@ -3,7 +3,7 @@ Health care is an important part of achieving quality of life and optimal health
 This report will look at:
 
 -The distribution of Family Physicians in Nova Scotia. <br>
--the possibility of a Family Physician shortage due to retirements.
+-The possibility of a Family Physician shortage due to retirements.
 
 ## Data
 
